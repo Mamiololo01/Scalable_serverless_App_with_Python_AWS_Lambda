@@ -88,6 +88,8 @@ Our script should return a response of ‘200’ and a brief message informing u
 
 We can also verify our test results by visiting the SQS dashboard to see our message and move onto configuring our API as a trigger for our Lambda.
 
+<img width="1098" alt="Screenshot 2023-03-31 at 09 44 39" src="https://user-images.githubusercontent.com/67044030/229115400-81b37b8d-71b1-4f37-8582-73d1c4c43cbd.png">
+
 
 
 
