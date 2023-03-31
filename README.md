@@ -145,6 +145,8 @@ This will open a test menu. At the bottom, click “Test” and on the request s
 
 Finally, we head over to our SNS Dashboard one more time. Here we can verify that our serverless application successfully ran through our integration from our API trigger to our Python Function in Lambda into a created queue in SQS
 
+<img width="1104" alt="Screenshot 2023-03-31 at 10 22 37" src="https://user-images.githubusercontent.com/67044030/229121189-572ba3bc-d543-4910-bef9-3279bb06d0f5.png">
+
 
 
 
