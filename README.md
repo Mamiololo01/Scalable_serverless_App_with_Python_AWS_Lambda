@@ -70,6 +70,14 @@ We paste our code into our Lambda function code and click the ‘Deploy’ butto
 
 <img width="1111" alt="Screenshot 2023-03-31 at 09 43 37" src="https://user-images.githubusercontent.com/67044030/229112798-508c2c72-50ce-484d-a3ff-4758b40550b6.png">
 
+Next we need to configure our test event. Remember, our Lambda needs to be triggered by an API gateway request. Therefore, we need to configure our test event to reflect that.
+
+We set up our test event back in our Lambda function dashboard by clicking the orange “Test” button. If this is your first time testing this particular function, AWS should route you immediately to a test configuration page, if it doesn’t, it will test based on their default test event or a previously configured test, which may not execute properly.
+
+If this is the case, you can click the ‘down arrow’ on the orangge ‘Test’ button to create a new ‘test event’.
+
+Attached is the JSON-based trigger event for an API gateway action. Feel free to use it or configure your own test event
+
 
 
 
