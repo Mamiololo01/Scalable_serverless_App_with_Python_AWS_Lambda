@@ -92,6 +92,16 @@ We can also verify our test results by visiting the SQS dashboard to see our mes
 
 <img width="1098" alt="Screenshot 2023-03-31 at 09 44 39" src="https://user-images.githubusercontent.com/67044030/229115400-81b37b8d-71b1-4f37-8582-73d1c4c43cbd.png">
 
+Step 4: Configuring our REST API in AWS API Gateway
+
+We start by heading to API Gateway in the AWS console. For our use-case we are going to create a REST API.
+
+We’re going to give our API a name and click “Next”
+
+
+We are going to select REST for our protocol. We select new API, give our API a name, and click “Create API”
+
+
 
 
 
