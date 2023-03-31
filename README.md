@@ -20,3 +20,9 @@ Prerequisites
 * 		Knowledge of RESTful API design principles and how to create an API using API Gateway
 * 		Understanding of serverless architecture and how to optimize serverless applications for performance and cost-effectiveness
 * 		Experience in developing scalable and fault-tolerant systems, including designing queue-based architectures like the one described above.
+
+Step 1: Creating our Lambda Function
+
+We start in the Lambda dashboard, by clicking “Create function”.
+
+We are going to ‘author from scratch’, give our function a name, select our run-time as ‘Python 3.7’, leave the architecture as default as well as the Lambda default permissions, which we are going to configure for our use-case in the next step. Finally, we click “Create function’.
