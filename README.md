@@ -105,6 +105,8 @@ We are going to select REST for our protocol. We select new API, give our API a 
 
 Next we need to create a Resource, give our resource a name, and click “Create Resource”
 
+<img width="1227" alt="Screenshot 2023-03-31 at 09 57 30" src="https://user-images.githubusercontent.com/67044030/229117730-25d63295-2730-42a3-8634-5dd5fbfd3832.png">
+
 <img width="1246" alt="Screenshot 2023-03-31 at 09 56 48" src="https://user-images.githubusercontent.com/67044030/229117269-088182f8-0d75-4bd3-9e6f-c4073b099e3f.png">
 
 Select “POST” for our use-case and click the checkmark to confirm.
