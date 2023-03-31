@@ -98,6 +98,8 @@ We start by heading to API Gateway in the AWS console. For our use-case we are g
 
 We’re going to give our API a name and click “Next”
 
+<img width="1271" alt="Screenshot 2023-03-31 at 09 55 39" src="https://user-images.githubusercontent.com/67044030/229116738-27456a55-d928-4c03-9467-87627bd83613.png">
+
 
 We are going to select REST for our protocol. We select new API, give our API a name, and click “Create API”
 
