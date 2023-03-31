@@ -35,3 +35,5 @@ Step 2: Assigning Permissions to our Lambda
 
 Now that we’ve created our function, we need to ensure that he will have the permissions needed to create and SQS queue when the Lambda is triggered. To do this, we can click the ‘configuration’ sub-menu link.
 
+<img width="1211" alt="Screenshot 2023-03-31 at 09 29 20" src="https://user-images.githubusercontent.com/67044030/229108463-3d562c0f-de3d-4168-92e1-98c3ec6f1f14.png">
+
