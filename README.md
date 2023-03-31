@@ -103,6 +103,8 @@ We’re going to give our API a name and click “Next”
 
 We are going to select REST for our protocol. We select new API, give our API a name, and click “Create API”
 
+Next we need to create a Resource, give our resource a name, and click “Create Resource”
+
 
 
 
