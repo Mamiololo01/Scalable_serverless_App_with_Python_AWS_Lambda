@@ -2,12 +2,19 @@
 Building a Scalable Serverless Application with Python and AWS Lambda
 
 Lambda functions and API Gateway are two essential components of the AWS ecosystem that can work together to create powerful solutions for a wide range of business needs. One such use case is using a Lambda function which is triggered by an API Gateway which then creates an Amazon Simple Queue Service (SQS) queue.
+
 Consider the following scenario:
+
 Suppose your company is running a high-traffic e-commerce website that receives a large number of orders each day. To process these orders efficiently, the company can set up an API Gateway to receive incoming order requests from the website’s front-end. The API Gateway can then trigger a Lambda function, which can use the information from the order requests to create a new SQS queue.
+
 The SQS queue can act as a buffer between the website’s front-end and the back-end processing system, allowing the company to process orders in batches and avoid overwhelming the back-end system. The Lambda function can also be configured to send notifications to relevant stakeholders when a new queue is created or when new orders are added to the queue.
+
 In this article, I am going to show you how you can create this architecture using an API Gateway trigger, a Lambda function coded in Python which creates an SQS queue message.
+
 Let’s jump right in!
+
 Prerequisites
+
 * 		Familiarity with AWS services, including Lambda, API Gateway, and SQS
 * 		Proficiency in programming languages supported by Lambda functions, such as JavaScript, Python, and Java
 * 		Knowledge of RESTful API design principles and how to create an API using API Gateway
