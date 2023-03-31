@@ -39,3 +39,5 @@ Now that we’ve created our function, we need to ensure that he will have the p
 
 Next we make our way to the “Permissions” left side menu and click on our “Execution role” link. This will open a new tab in our browser and bring us to our IAM dashboard where we can re-configure the IAM role for our Lambda function.
 
+<img width="1229" alt="Screenshot 2023-03-31 at 09 31 30" src="https://user-images.githubusercontent.com/67044030/229109565-1370177d-a46a-40df-a97e-6f495e7fb2bb.png">
+
