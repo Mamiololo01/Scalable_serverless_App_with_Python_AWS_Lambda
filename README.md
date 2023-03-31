@@ -51,4 +51,7 @@ We can then search for ‘SQS’ and for our purposes are going to select the �
 We will then be re-directed back to our IAM dashboard where we receive confirmation that our policy was attached correctly. We can now move back to our Lambda function dashboard to code our python script.
 
 
+<img width="1256" alt="Screenshot 2023-03-31 at 09 33 58" src="https://user-images.githubusercontent.com/67044030/229110639-6942851c-0bcf-4403-80f8-6c0fc6800f42.png">
+
+
 
