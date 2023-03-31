@@ -85,6 +85,8 @@ Back in our function, we can test to see if our python script runs as expected b
 
 Our script should return a response of ‘200’ and a brief message informing us that an SQS queue was created
 
+<img width="1111" alt="Screenshot 2023-03-31 at 09 43 37" src="https://user-images.githubusercontent.com/67044030/229115565-eebe7801-4b06-4b7a-9483-d954c562f259.png">
+
 
 We can also verify our test results by visiting the SQS dashboard to see our message and move onto configuring our API as a trigger for our Lambda.
 
