@@ -43,8 +43,12 @@ Next we make our way to the “Permissions” left side menu and click on our �
 
 In the particular role for Lambda within the IAM dashboard, we click the ‘Add permissoins’ drop-down menu and click ‘Attach policies’.
 
+<img width="1191" alt="Screenshot 2023-03-31 at 09 31 40" src="https://user-images.githubusercontent.com/67044030/229110179-9ceef0ce-1685-4a50-a79c-56ade3001a2c.png">
+
 We can then search for ‘SQS’ and for our purposes are going to select the ‘AWSSQSFullAccess’ and click “Add permissions’.
 
 
 We will then be re-directed back to our IAM dashboard where we receive confirmation that our policy was attached correctly. We can now move back to our Lambda function dashboard to code our python script.
+
+
 
