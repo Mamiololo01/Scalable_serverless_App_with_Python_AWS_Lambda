@@ -115,6 +115,9 @@ Select “POST” for our use-case and click the checkmark to confirm.
 We are going to set our integreation type to “Lambda Function”, select Lambda proxy integration, select the same region that our Lambda function is in, select our particular Lambda function, and click “Save”.
 
 
+<img width="1038" alt="Screenshot 2023-03-31 at 10 01 01" src="https://user-images.githubusercontent.com/67044030/229118252-bdd65fea-08b6-4bc8-a2be-551ec6d79220.png">
+
+
 We are going to be prompted to enable permissions for our API to invoke our Lambda function.
 
 
