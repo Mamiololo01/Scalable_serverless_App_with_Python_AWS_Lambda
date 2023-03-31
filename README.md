@@ -68,6 +68,8 @@ I will briefly describe what our script does, but it should be evident from our 
 
 We paste our code into our Lambda function code and click the ‘Deploy’ button and should receive a green confirmation banner that our function was updated.
 
+<img width="1111" alt="Screenshot 2023-03-31 at 09 43 37" src="https://user-images.githubusercontent.com/67044030/229112798-508c2c72-50ce-484d-a3ff-4758b40550b6.png">
+
 
 
 
