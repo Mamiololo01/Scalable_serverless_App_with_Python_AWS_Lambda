@@ -139,6 +139,8 @@ In our POST method menu, we click “TEST”:
 
 This will open a test menu. At the bottom, click “Test” and on the request side, should return a 200 Status code indicating a successful Lambda function run:
 
+<img width="1223" alt="Screenshot 2023-03-31 at 10 09 43" src="https://user-images.githubusercontent.com/67044030/229120695-55b9f43a-0283-4104-b2a1-85242ae03a3f.png">
+
 Finally, we head over to our SNS Dashboard one more time. Here we can verify that our serverless application successfully ran through our integration from our API trigger to our Python Function in Lambda into a created queue in SQS
 
 
