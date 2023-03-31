@@ -66,6 +66,9 @@ I will briefly describe what our script does, but it should be evident from our 
 
 <img width="1232" alt="Screenshot 2023-03-31 at 09 38 47" src="https://user-images.githubusercontent.com/67044030/229112262-ce987907-0391-4031-a314-229c35296139.png">
 
+We paste our code into our Lambda function code and click the ‘Deploy’ button and should receive a green confirmation banner that our function was updated.
+
+
 
 
 
