@@ -78,6 +78,17 @@ If this is the case, you can click the ‘down arrow’ on the orangge ‘Test�
 
 Attached is the JSON-based trigger event for an API gateway action. Feel free to use it or configure your own test event
 
+We give our test event a name, we will make ours private and paste in our JSON, then click “Save”.
+
+
+Back in our function, we can test to see if our python script runs as expected by clicking the orange “Test” button and selecting our newly created test event, if needed.
+
+Our script should return a response of ‘200’ and a brief message informing us that an SQS queue was created
+
+
+We can also verify our test results by visiting the SQS dashboard to see our message and move onto configuring our API as a trigger for our Lambda.
+
+
 
 
 
