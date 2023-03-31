@@ -125,6 +125,8 @@ We are going to be prompted to enable permissions for our API to invoke our Lamb
 
 Finally, we need to deploy our API and select or assign a stage for our API. Finally, we click, “Deploy”.
 
+<img width="1239" alt="Screenshot 2023-03-31 at 10 02 56" src="https://user-images.githubusercontent.com/67044030/229119110-fccb8b56-8010-4521-971c-d67e8eca4d39.png">
+
 
 
 
