@@ -129,6 +129,8 @@ Finally, we need to deploy our API and select or assign a stage for our API. Fin
 
 Now that our API is configured and deployed, we need to test that our API invokes our Lambda function so that it produces an SQS queue for our website ecommerce store. To do this, we navigate to “Stages” in our left-side menu and click on our “POST” method.
 
+<img width="1255" alt="Screenshot 2023-03-31 at 10 04 05" src="https://user-images.githubusercontent.com/67044030/229119559-78d99839-4264-4d7b-95c5-814629a999bd.png">
+
 
 
 
