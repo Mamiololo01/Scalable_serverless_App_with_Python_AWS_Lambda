@@ -28,3 +28,8 @@ We start in the Lambda dashboard, by clicking “Create function”.
 We are going to ‘author from scratch’, give our function a name, select our run-time as ‘Python 3.7’, leave the architecture as default as well as the Lambda default permissions, which we are going to configure for our use-case in the next step. Finally, we click “Create function’.
 
 <img width="1233" alt="Screenshot 2023-03-31 at 09 27 37" src="https://user-images.githubusercontent.com/67044030/229107332-3bc2a60a-a0c2-4448-9749-58b9358d2433.png">
+
+Step 2: Assigning Permissions to our Lambda
+
+Now that we’ve created our function, we need to ensure that he will have the permissions needed to create and SQS queue when the Lambda is triggered. To do this, we can click the ‘configuration’ sub-menu link.
+
