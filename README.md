@@ -53,5 +53,16 @@ We will then be re-directed back to our IAM dashboard where we receive confirmat
 
 <img width="1256" alt="Screenshot 2023-03-31 at 09 33 58" src="https://user-images.githubusercontent.com/67044030/229110639-6942851c-0bcf-4403-80f8-6c0fc6800f42.png">
 
+Step 3: Coding our Python Script in Lambda
+
+Now that our Lambda has the proper permissions to send a message to our SQS queue. We can code our python script into our code of our lambda with inline comments.
+I will briefly describe what our script does, but it should be evident from our introduction. Based on our scope and use-case, our script:
+
+* 		Creates an instance of the SQS client
+* 		Names the queue
+* 		Creates the queue using the SQS client
+* 		Returns a success message
+
+
 
 
