@@ -29,6 +29,8 @@ We are going to ‘author from scratch’, give our function a name, select our 
 
 <img width="1233" alt="Screenshot 2023-03-31 at 09 27 37" src="https://user-images.githubusercontent.com/67044030/229107332-3bc2a60a-a0c2-4448-9749-58b9358d2433.png">
 
+<img width="1251" alt="Screenshot 2023-03-31 at 09 28 18" src="https://user-images.githubusercontent.com/67044030/229108076-c61f6a7f-adbc-4d4a-bb6a-e3e817931f6f.png">
+
 Step 2: Assigning Permissions to our Lambda
 
 Now that we’ve created our function, we need to ensure that he will have the permissions needed to create and SQS queue when the Lambda is triggered. To do this, we can click the ‘configuration’ sub-menu link.
