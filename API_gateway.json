@@ -1,0 +1,35 @@
+{
+  "version": "2.0",
+  "routeKey": "POST /my-api-endpoint",
+  "rawPath": "/my-api-endpoint",
+  "rawQueryString": "",
+  "headers": {
+    "accept": "*/*",
+    "content-length": "0",
+    "host": "api-id.execute-api.us-east-1.amazonaws.com",
+    "user-agent": "HTTPie/2.4.0",
+    "x-amzn-trace-id": "Root=1-12345678-abcdef1234567890",
+    "x-forwarded-for": "1.2.3.4",
+    "x-forwarded-port": "443",
+    "x-forwarded-proto": "https"
+  },
+  "requestContext": {
+    "accountId": "123456789012",
+    "apiId": "api-id",
+    "domainName": "api-id.execute-api.us-east-1.amazonaws.com",
+    "domainPrefix": "api-id",
+    "http": {
+      "method": "POST",
+      "path": "/my-api-endpoint",
+      "protocol": "HTTP/1.1",
+      "sourceIp": "1.2.3.4",
+      "userAgent": "HTTPie/2.4.0"
+    },
+    "requestId": "abcdef12-3456-7890-abcd-ef1234567890",
+    "routeKey": "POST /my-api-endpoint",
+    "stage": "$default",
+    "time": "2022-03-01T00:00:00.000Z",
+    "timeEpoch": 1646040000000
+  },
+  "body": "",
+  "isBase64Encoded": false
