@@ -120,6 +120,8 @@ We are going to set our integreation type to “Lambda Function”, select Lambd
 
 We are going to be prompted to enable permissions for our API to invoke our Lambda function.
 
+<img width="1252" alt="Screenshot 2023-03-31 at 10 01 30" src="https://user-images.githubusercontent.com/67044030/229118635-1a8cc23e-765c-4e65-ac41-b4aec6e16193.png">
+
 
 Finally, we need to deploy our API and select or assign a stage for our API. Finally, we click, “Deploy”.
 
